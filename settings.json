@@ -73,6 +73,5 @@
     "editor.renderIndentGuides": false,
     "emmet.showAbbreviationSuggestions": false,
     "emmet.showExpandedAbbreviation": "never",
-    "editor.fontFamily": "Fira Mono",
-    "workbench.editor.enablePreview": false
+    "editor.fontFamily": "Fira Mono"
   }
